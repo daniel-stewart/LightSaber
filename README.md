@@ -23,3 +23,6 @@ The M4 Lightsaber Python file is the code that can be loaded onto an [Adafruit M
 I used a [standard battery common for lightsabers](https://www.thecustomsabershop.com/JST-Sony-Li-Ion-18650-37V-15A-3120mAh-PCB-Protected-Rechargeable-Battery-P1451.aspx).
 
 I bought regular 22mm speakers off the Internet to use for my sound. 
+
+## Chassis
+I've included STL files of the chassis I used to hold the electronics. Not the best design in the world, but it worked.
