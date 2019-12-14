@@ -13,3 +13,5 @@ The basic parts should be created for you. They are very large compared to Blend
 At the bottom of the Python file you'll see the calls to the various functions which create the hilt, pommel, and blade holder. You can alter the parameters that are used to create the parts. You should be able to look at the function definitions to see what each parameter does. The basic parameters control the number of vertices around, the number of threads, the radius of the lightsaber, and the thread profile.
 
 This just creates parts from which you can continue to make into what you want. They should screw together just fine once printed, assuming you've made the number of threads for male and female such that they fit. 
+
+The Blade Holder was sized to fit standard blades you can get within this hobby space. For example, I bought a blade tube from https://www.thecustomsabershop.com/1-Thick-walled-Trans-White-PolyC-40-long-P528.aspx and it fits just fine. 
