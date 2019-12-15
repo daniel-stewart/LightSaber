@@ -26,3 +26,4 @@ I bought regular 22mm speakers off the Internet to use for my sound.
 
 ## Chassis
 I've included STL files of the chassis I used to hold the electronics. Not the best design in the world, but it worked.
+I designed the hilt such that the chassis slides down and is stopped near the bottom. The inside radius of the tube is simply smaller at th bottom, stopping the chassis from falling all the way through. I held my chassis in place with the button. The button is positioned such that it prevents the chassis from sliding up. Simple, but it works. The distance from the center of the button to the top of the set of points inside the hilt where it begins getting smaller is 142.69 m. 
